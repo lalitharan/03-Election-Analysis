@@ -15,6 +15,8 @@ The election winner with their vote count and percentage
 
 How many votes were cast in this congressional election?
 
+![](analysis/Total_Votes.png)
+
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
 Which county had the largest number of votes?
